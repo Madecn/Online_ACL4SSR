@@ -1,6 +1,7 @@
 # 代理列表
 
 # MyLista
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,zenodo.org
 DOMAIN-SUFFIX,lirmm.fr
 DOMAIN-SUFFIX,msdl.microsoft.com
